@@ -18,6 +18,16 @@ The dashboard helps answer important business questions:
 * How does sales performance change month by month?
 
 ---
+## 🖼️ Dashboard Preview
+
+### Main Dashboard
+
+![Main Dashboard](Dashboard_Screenshot.png)
+
+### Product and State Analysis
+
+![Product and State Analysis](Dashboard_Screenshot-2.png)
+
 
 ## 🛠️ Tools & Technologies
 
